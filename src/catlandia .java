@@ -7,7 +7,9 @@ import java.net.URI;
 
 import javax.swing.JOptionPane;
 
-public class CrazyCatLady {
+public class catlandia.java
+{
+
 	public static void main(String[] args) {
 		// 1. Ask the user how many cats they have
 
